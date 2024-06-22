@@ -24,6 +24,8 @@
  <a href="https://www.linkedin.com/in/mikael-a-inez-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a><br><br>
 </div>
 <h3 align = 'center' >📩 Email:</h3>
-<div align = 'center'>mk.mikael159@gmail.com</div>
+<div align = 'center'>
+ <a href="mailto:mk.mikael159@gmail.com" >mk.mikael159@gmail.com</a>
+</div>
 
 
