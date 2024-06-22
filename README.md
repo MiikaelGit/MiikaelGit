@@ -11,9 +11,10 @@
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
- 
 </div>
-
+<br>
+<br>
+<br>
 <div align = 'center'  style="margin-bottom:100px">
   <img width=50%  src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=miikaelgit&show_icons=true&theme=midnight-purple&layout=compact" />
  </div>
