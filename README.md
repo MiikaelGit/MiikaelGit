@@ -16,7 +16,7 @@
 <br>
 <br>
 <div align = 'center'  style="margin-bottom:100px">
-  <img width=80%  src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=miikaelgit&show_icons=true&theme=midnight-purple&layout=compact" />
+  <img width=70%  src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=miikaelgit&show_icons=true&theme=midnight-purple&layout=compact" />
  </div>
  <h2 align = 'center'>Contact me:</h2> 
 <h3 align = 'center'>LinkedIn:</h3> 
